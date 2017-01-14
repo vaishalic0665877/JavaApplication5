@@ -17,10 +17,10 @@ public class JavaApplication5 {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-        public static String stringPower(String name, int number){
-            
-            return "";
-        }
-    
-    
+
+    public static String stringPower(String name, int number) {
+        
+        return "";
+    }
+
 }
