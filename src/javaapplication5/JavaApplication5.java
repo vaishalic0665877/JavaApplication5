@@ -19,7 +19,9 @@ public class JavaApplication5 {
     }
 
     public static String stringPower(String name, int number) {
-        
+        if (number < 1) {
+            return null;
+        }
         return "";
     }
 
